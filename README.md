@@ -1,6 +1,6 @@
 # aman-kumar-mittal
 Hi 👋 I'm Aman Kumar Mittal. 
-I'm Backend Python Developer with 2+ years of experience building high-performance, secure, and scalable backend systems. Specialized in FastAPI, Django, and Flask for RESTful API development. Proficient in SQL and NoSQL database design, JWT-based authentication, role-based authorization (RBAC), and third-party API integrations. Experienced in delivering production-grade solutions with a strong focus on clean architecture, security, and performance optimization.
+I'm Software Developer (Python) with 2 years and 7 month of experience building high-performance, secure, and scalable backend systems. Specialized in FastAPI, Django, and Flask for RESTful API development. Proficient in SQL and NoSQL database design, JWT-based authentication, role-based authorization (RBAC), and third-party API integrations. Experienced in delivering production-grade solutions with a strong focus on clean architecture, security, and performance optimization.
 
 # 💫 About Me:
 🔭 Working as Jr. Software Developer (Python)<br>💡 Specialized in FastAPI, Django, Flask<br>🔐 Strong in JWT Authentication & RBAC<br>💳 Payment Gateway Integration (Stripe)<br>🐳 Docker & Cloud Deployment<br>📈 Performance Optimization & DB Design
