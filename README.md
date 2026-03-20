@@ -81,9 +81,14 @@ I'm Backend Python Developer with 2 years and 7 month of experience building hig
 - Collaborated with international web and mobile teams for seamless backend integration
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-kumar-mittal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-kumar-mittal&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=aman-kumar-mittal&theme=radical)
+**GitHub Stats:**
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aman-mittal-dev&show_icons=true&theme=radical" width="50%" /></p>
+
+**Top Language:**
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mittal-dev&layout=compact&theme=radical" width="50%" /></p>
+
+**GitHub Streak:**
+<p align="center"><img src="https://streak-stats.demolab.com?user=aman-mittal-dev&theme=radical" width="50%" /></p>
 
 ## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@code_with_python)
